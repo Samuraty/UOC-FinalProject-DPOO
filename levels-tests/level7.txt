@@ -1,0 +1,10 @@
+5
+STARTER
+1
+Wa1
+Mb2
+Gc2
+Mc3
+Hd2
+<e1
+^c5

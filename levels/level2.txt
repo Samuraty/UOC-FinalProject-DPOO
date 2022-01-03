@@ -1,0 +1,12 @@
+5
+STARTER
+2
+Ha1
+Ma2
+Ma3
+Ha5
+Mb4
+Hc3
+wc4
+He1
+He5

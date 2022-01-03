@@ -1,0 +1,13 @@
+5
+EXPERT
+7
+Ha1
+wa2
+Ha5
+Mb1
+Mc1
+Hc3
+^d2
+Md3
+He1
+He5

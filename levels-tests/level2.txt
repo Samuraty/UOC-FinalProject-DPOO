@@ -1,0 +1,13 @@
+5
+WIZARD
+16
+Ha1
+wa4
+Ma5
+>b2
+Hc3
+Mc4
+^d2
+He1
+Me3
+He5
